@@ -1,0 +1,2 @@
+# pip-scraper
+Trading algorithm
